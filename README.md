@@ -60,3 +60,4 @@
   and save the file on your User Package folder with the name Drupal.sublime-build
   </li>
 </ol>
+<p>other plugins:<ol><li>SublimeCodeIntel</li></ol></p>
